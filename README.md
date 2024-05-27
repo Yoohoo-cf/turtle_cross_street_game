@@ -32,7 +32,7 @@ Ensure Python 3.x is installed on your system.
 Navigate to the directory containing the game files.
 Run the game using Python:
 
-`python3 turtle_cross_street.py` on Mac or `python turtle_cross_street.py` on Windows.
+`python3 turtle_cross_street_game.py` on Mac or `python turtle_cross_street_game.py` on Windows.
 
 ## Contributing
 
