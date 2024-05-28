@@ -30,9 +30,10 @@ Additional game modules (player, car_manager, scoreboard), which should be in th
 Clone the repository or download the files to your local machine.
 Ensure Python 3.x is installed on your system.
 Navigate to the directory containing the game files.
+`cd turtle_cross_street_game`
 Run the game using Python:
 
-`python3 turtle_cross_street_game.py` on Mac or `python turtle_cross_street_game.py` on Windows.
+`python3 main.py` on Mac or `py main.py` on Windows.
 
 ## Contributing
 
